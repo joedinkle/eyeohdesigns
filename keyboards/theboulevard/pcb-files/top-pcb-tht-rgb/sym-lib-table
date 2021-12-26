@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name blvdtop-rescue)(type Legacy)(uri ${KIPRJMOD}/blvdtop-rescue.lib)(options "")(descr ""))
+)
